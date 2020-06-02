@@ -1,5 +1,5 @@
 # Google Books Search 
-![Followers](https://img.shields.io/github/followers/DVasquez4155?style=social) ![License](https://img.shields.io/github/license/DVasquez4155/Google-Books-Search) ![Language](https://img.shields.io/github/languages/top/DVasquez4155/Google-Books-Search) ![Latest Commit](https://img.shields.io/github/last-commit/DVasquez4155/Google-Books-Search)
+![Followers](https://img.shields.io/github/followers/DVasquez4155?style=social) ![License](https://img.shields.io/github/license/DVasquez4155/Google-Book-Search) ![Language](https://img.shields.io/github/languages/top/DVasquez4155/Google-Book-Search) ![Latest Commit](https://img.shields.io/github/last-commit/DVasquez4155/Google-Books-Search)
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
